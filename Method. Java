@@ -1,0 +1,14 @@
+class Method
+{
+     public static void main (String[] args)
+     {
+        Add a =new Add() ;
+        a.Add();
+        System.out.printing(a.Add()) ;
+      }
+}
+void Add() 
+{
+   int a=10,b=10, C;
+    c = a+b;
+ }
